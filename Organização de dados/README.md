@@ -1,6 +1,6 @@
 # Disciplina de Pensamento Computacional
 
-**Integrantes**:
+**Integrantes**
 
 - [Davi Rosa de Oliveira Souza - 33529639](https://github.com/davi-oliveira)
 - [Leonardo de Castro Zeraik - 26606151](https://github.com/Lzeraik)
